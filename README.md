@@ -16,7 +16,7 @@
   - Made by Meow
 - ps\_harvest
   - Originally made by Wherewolf
-  - Ported and Upscaled from Gang Garrison 2 by BasedUser
+  - Ported and Upscaled from Gang Garrison 2 by [BasedUser](https://github.com/BasedUser)
 - ps\_nucleus
   - Art by Tarzan
   - Finished by Schadenfreude
