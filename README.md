@@ -11,7 +11,7 @@
   - Ported from Gang Garrison 2 by Kevin Kuntz
 - ps\_firedance
   - Originally made by Jakapoa
-  - Ported from Gang Garrison 2 by Kevin Kuntz
+  - Ported from Gang Garrison 2 by [BasedUser](https://github.com/BasedUser)
 - ps\_gummygorge
   - Made by Meow
 - ps\_harvest
