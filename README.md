@@ -21,3 +21,5 @@
   - Art by Tarzan
   - Finished by Schadenfreude
   - Ported from Gang Garrison 2 and Edited by Kevin Kuntz
+- ps_MischiefInPizzaTower_v1
+  - Made by Blaze "StS (PL)" Wójcik
