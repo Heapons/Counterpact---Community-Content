@@ -1,2 +1,25 @@
-# Counterpact - Community Content
- Repository of maps, ... for Counterpact.
+# Maps
+- inv\_RainbowResort1
+  - Ported from Kirby's Adventure (NES) by Melodytchi
+- inv\_SMB3\_1-2\_BF
+  - Assets from Super Mario Bros. 3
+- ps\_AquaticRuin
+  - Made by Melodytchi
+  - Assets from Sonic 2
+- ps\_cortraduct
+  - Originally made by Heenok
+  - Ported from Gang Garrison 2 by Kevin Kuntz
+- ps\_firedance
+  - Originally made by Jakapoa
+  - Ported from Gang Garrison 2 by [BasedUser](https://github.com/BasedUser)
+- ps\_gummygorge
+  - Made by Meow
+- ps\_harvest
+  - Originally made by Wherewolf
+  - Ported and Upscaled from Gang Garrison 2 by [BasedUser](https://github.com/BasedUser)
+- ps\_nucleus
+  - Art by Tarzan
+  - Finished by Schadenfreude
+  - Ported from Gang Garrison 2 and Edited by Kevin Kuntz
+- ps_MischiefInPizzaTower_v1
+  - Made by Blaze "StS (PL)" Wójcik
